@@ -1,4 +1,5 @@
 // let name = "天下无双"
 // let Age = "666"
 // let Sex = "男"
-let name = "我是憨批王康"
+// let name = "我是憨批王康"
+let Assder = "索嗨嗨"
